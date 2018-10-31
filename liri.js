@@ -45,15 +45,15 @@ function append(append) {
 // =====================================================================
 
 // create a function that takes the input of an action and data.
-function doit(action,data) {
+function search (action,data) {
     append('\n***** New Search - '+action+' - '+data+' *****\n\n');
     // create a switch case function based on the action from the input
     switch(action) {
         // if the action is "my-tweets"
         case 'my-tweets':
             // the screen name is the "data" variable
-            var screenName = {screen_name: data};
-            // use the tiwtter keys to request the most recent tweets from that screen name
+            var screenName = {DheepaSiva: data};
+            // use the twtter keys to request the most recent tweets from that screen name
             client.get('statuses/user_timeline', screenName, function(error, tweets, response){                
                 // if there is no error
                 if (!error) {
@@ -107,14 +107,14 @@ function doit(action,data) {
                 // if there are no results
                 } else {
                     // tell the user to choose a new song
-                    console.log('We did not find any results for that song.');
-                    append('We did not find any results for that song.\n');
+                    console.log('Your song was not found.');
+                    append('No results were found for that song. Please try again.\n');
                 } 
             });
             // end the switch case here
             break;
 
-        // if the action is "spotify-this-song"
+        // if the action is "movie-this"
         case 'movie-this':
             // use the request app to send a request to the OMDB api
             request('http://www.omdbapi.com/?t='+data+'&y=&plot=short&tomatoes=true&r=json', function (error, response, body) {
@@ -161,7 +161,7 @@ function doit(action,data) {
             // end the switch case here
             break;
 
-        // if the action is "spotify-this-song"
+        // if the action is "do-what-it-says"
         case 'do-what-it-says':
             // use Node file system to get and read the file
             fs.readFile(data, "utf8", function(err,data){
@@ -187,4 +187,4 @@ function doit(action,data) {
 // Run the main function with the initial action and data
 // =====================================================================
 
-doit(action,data);
+search(action,data);
