@@ -204,3 +204,272 @@ RT @CNN: “Look at me when I'm talking to you. You’re telling me that my assa
 ----------------------------------------------------
 "But another kind of credibility was also at stake for #Kavanaugh—that of a judge, whose legitimacy depends on our… https://t.co/ZOLOXrAEbd
 ----------------------------------------------------
+
+***** New Search - spotify-this-song - undefined *****
+
+User Command: /usr/local/bin/node,/Users/dheepasivakumaran/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Thu Oct 25 15:00:40 +0000 2018
+Tweet content: RT @AngrierWHStaff: “I rarely use a cellphone”
+
+*as evidenced by my 35th tweetstorm of the month https://t.co/AP9k4BVDQI
+------------------------
+Created on: Fri Oct 19 00:14:05 +0000 2018
+Tweet content: I'm quite envious of the Beast's library in #BeautyAndTheBeast. #BeautyAndTheBeast2017
+------------------------
+Created on: Fri Oct 05 15:25:44 +0000 2018
+Tweet content: RT @Susan_Hennessey: It's nice that Kavanaugh was there as a dad, son, and husband. 
+
+Christine Ford was there as a daughter, wife, mother,…
+------------------------
+Created on: Fri Oct 05 00:41:59 +0000 2018
+Tweet content: RT @Scott_Gilmore: Yesterday, after an 18 month investigation, the NYT revealed the President of the United States committed hundreds of mi…
+------------------------
+Created on: Wed Oct 03 18:28:25 +0000 2018
+Tweet content: Here's a different perspective to consider: "To all the #fathers of all the silent victims: Your children are quiet… https://t.co/gl31ZxGD4w
+------------------------
+Created on: Tue Oct 02 04:16:08 +0000 2018
+Tweet content: Even thinking about the lyrics to "Red, Red Wine" makes this man belligerent. It's not often you read about an aspi… https://t.co/8up789UxTr
+------------------------
+Created on: Mon Oct 01 18:18:37 +0000 2018
+Tweet content: RT @shannonrwatts: Trump to woman reporter: "She's shocked I picked her, she's in a state of shock”
+Reporter: “I'm not, thank you Mr. Presi…
+------------------------
+Created on: Mon Oct 01 04:53:18 +0000 2018
+Tweet content: And yet the real #BrettKavanaugh seemed even more vengeful than #MattDamon's version on #SNL -- kind of surreal, is… https://t.co/2C2K3n3wt7
+------------------------
+Created on: Sun Sep 30 18:33:06 +0000 2018
+Tweet content: "#Kavanaugh was under oath... if the extended #FBI investigation into his background... looks into this and establi… https://t.co/1kf1LudE4v
+------------------------
+Created on: Sat Sep 29 20:58:54 +0000 2018
+Tweet content: "In the wake of Dr. Christine Blasey Ford’s sworn testimony of sexual abuse at the hands of Brett Kavanaugh, the Am… https://t.co/SW7I28JKu8
+------------------------
+Created on: Sat Sep 29 20:44:27 +0000 2018
+Tweet content: "...U.S. Supreme Court nominee #BrettKavanaugh laid bare his partisan resentments — the kind of bitter tribalism th… https://t.co/wFqoThpylK
+------------------------
+Created on: Fri Sep 28 18:28:55 +0000 2018
+Tweet content: RT @SenSanders: Brett Kavanaugh lied repeatedly to the Senate Judiciary Committee. He does not belong on the Supreme Court. https://t.co/95…
+------------------------
+Created on: Fri Sep 28 18:22:24 +0000 2018
+Tweet content: RT @NateSilver538: You know what else is going to come out in a week? Polls. Lots of 'em. And if you're Susan Collins or Joe Manchin, it's…
+------------------------
+Created on: Fri Sep 28 18:21:40 +0000 2018
+Tweet content: RT @kumailn: Flake calling for an FBI investigation. Wow. The heroic act by those women in the elevator worked.
+------------------------
+Created on: Fri Sep 28 18:17:47 +0000 2018
+Tweet content: RT @DLOW_72: If all I had to do in a job interview was cry and say I love beer a lot hell I could be a CEO right now #KavanaughVote
+------------------------
+Created on: Fri Sep 28 17:54:24 +0000 2018
+Tweet content: "He lied repeatedly to the Judiciary Committee... Some of his lies, about the testimony of witnesses and the integr… https://t.co/d4Ze2vHWdT
+------------------------
+Created on: Fri Sep 28 17:46:17 +0000 2018
+Tweet content: They don't need to be in such a hurry on a decision like this. #Kavanaugh #Senate #DelayTheVote
+------------------------
+Created on: Fri Sep 28 17:36:52 +0000 2018
+Tweet content: RT @BrennaDemands: All I saw was the rage of a man who did not get what he want. I saw an abuser. I saw a bully. I saw a drunk.
+
+I saw what…
+------------------------
+Created on: Fri Sep 28 14:30:51 +0000 2018
+Tweet content: RT @CNN: “Look at me when I'm talking to you. You’re telling me that my assault doesn’t matter!": Protesters confront Sen. Jeff Flake momen…
+------------------------
+Created on: Fri Sep 28 13:23:25 +0000 2018
+Tweet content: "But another kind of credibility was also at stake for #Kavanaugh—that of a judge, whose legitimacy depends on our… https://t.co/ZOLOXrAEbd
+------------------------
+
+User Command: node liri.js spotify-this-song 
+
+User Command: node liri.js movie-this 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+User Command: /usr/local/bin/node,/Users/dheepasivakumaran/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Thu Oct 25 15:00:40 +0000 2018
+Tweet content: RT @AngrierWHStaff: “I rarely use a cellphone”
+
+*as evidenced by my 35th tweetstorm of the month https://t.co/AP9k4BVDQI
+------------------------
+Created on: Fri Oct 19 00:14:05 +0000 2018
+Tweet content: I'm quite envious of the Beast's library in #BeautyAndTheBeast. #BeautyAndTheBeast2017
+------------------------
+Created on: Fri Oct 05 15:25:44 +0000 2018
+Tweet content: RT @Susan_Hennessey: It's nice that Kavanaugh was there as a dad, son, and husband. 
+
+Christine Ford was there as a daughter, wife, mother,…
+------------------------
+Created on: Fri Oct 05 00:41:59 +0000 2018
+Tweet content: RT @Scott_Gilmore: Yesterday, after an 18 month investigation, the NYT revealed the President of the United States committed hundreds of mi…
+------------------------
+Created on: Wed Oct 03 18:28:25 +0000 2018
+Tweet content: Here's a different perspective to consider: "To all the #fathers of all the silent victims: Your children are quiet… https://t.co/gl31ZxGD4w
+------------------------
+Created on: Tue Oct 02 04:16:08 +0000 2018
+Tweet content: Even thinking about the lyrics to "Red, Red Wine" makes this man belligerent. It's not often you read about an aspi… https://t.co/8up789UxTr
+------------------------
+Created on: Mon Oct 01 18:18:37 +0000 2018
+Tweet content: RT @shannonrwatts: Trump to woman reporter: "She's shocked I picked her, she's in a state of shock”
+Reporter: “I'm not, thank you Mr. Presi…
+------------------------
+Created on: Mon Oct 01 04:53:18 +0000 2018
+Tweet content: And yet the real #BrettKavanaugh seemed even more vengeful than #MattDamon's version on #SNL -- kind of surreal, is… https://t.co/2C2K3n3wt7
+------------------------
+Created on: Sun Sep 30 18:33:06 +0000 2018
+Tweet content: "#Kavanaugh was under oath... if the extended #FBI investigation into his background... looks into this and establi… https://t.co/1kf1LudE4v
+------------------------
+Created on: Sat Sep 29 20:58:54 +0000 2018
+Tweet content: "In the wake of Dr. Christine Blasey Ford’s sworn testimony of sexual abuse at the hands of Brett Kavanaugh, the Am… https://t.co/SW7I28JKu8
+------------------------
+Created on: Sat Sep 29 20:44:27 +0000 2018
+Tweet content: "...U.S. Supreme Court nominee #BrettKavanaugh laid bare his partisan resentments — the kind of bitter tribalism th… https://t.co/wFqoThpylK
+------------------------
+Created on: Fri Sep 28 18:28:55 +0000 2018
+Tweet content: RT @SenSanders: Brett Kavanaugh lied repeatedly to the Senate Judiciary Committee. He does not belong on the Supreme Court. https://t.co/95…
+------------------------
+Created on: Fri Sep 28 18:22:24 +0000 2018
+Tweet content: RT @NateSilver538: You know what else is going to come out in a week? Polls. Lots of 'em. And if you're Susan Collins or Joe Manchin, it's…
+------------------------
+Created on: Fri Sep 28 18:21:40 +0000 2018
+Tweet content: RT @kumailn: Flake calling for an FBI investigation. Wow. The heroic act by those women in the elevator worked.
+------------------------
+Created on: Fri Sep 28 18:17:47 +0000 2018
+Tweet content: RT @DLOW_72: If all I had to do in a job interview was cry and say I love beer a lot hell I could be a CEO right now #KavanaughVote
+------------------------
+Created on: Fri Sep 28 17:54:24 +0000 2018
+Tweet content: "He lied repeatedly to the Judiciary Committee... Some of his lies, about the testimony of witnesses and the integr… https://t.co/d4Ze2vHWdT
+------------------------
+Created on: Fri Sep 28 17:46:17 +0000 2018
+Tweet content: They don't need to be in such a hurry on a decision like this. #Kavanaugh #Senate #DelayTheVote
+------------------------
+Created on: Fri Sep 28 17:36:52 +0000 2018
+Tweet content: RT @BrennaDemands: All I saw was the rage of a man who did not get what he want. I saw an abuser. I saw a bully. I saw a drunk.
+
+I saw what…
+------------------------
+Created on: Fri Sep 28 14:30:51 +0000 2018
+Tweet content: RT @CNN: “Look at me when I'm talking to you. You’re telling me that my assault doesn’t matter!": Protesters confront Sen. Jeff Flake momen…
+------------------------
+Created on: Fri Sep 28 13:23:25 +0000 2018
+Tweet content: "But another kind of credibility was also at stake for #Kavanaugh—that of a judge, whose legitimacy depends on our… https://t.co/ZOLOXrAEbd
+------------------------
+
+User Command: /usr/local/bin/node,/Users/dheepasivakumaran/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Thu Oct 25 15:00:40 +0000 2018
+Tweet content: RT @AngrierWHStaff: “I rarely use a cellphone”
+
+*as evidenced by my 35th tweetstorm of the month https://t.co/AP9k4BVDQI
+------------------------
+Created on: Fri Oct 19 00:14:05 +0000 2018
+Tweet content: I'm quite envious of the Beast's library in #BeautyAndTheBeast. #BeautyAndTheBeast2017
+------------------------
+Created on: Fri Oct 05 15:25:44 +0000 2018
+Tweet content: RT @Susan_Hennessey: It's nice that Kavanaugh was there as a dad, son, and husband. 
+
+Christine Ford was there as a daughter, wife, mother,…
+------------------------
+Created on: Fri Oct 05 00:41:59 +0000 2018
+Tweet content: RT @Scott_Gilmore: Yesterday, after an 18 month investigation, the NYT revealed the President of the United States committed hundreds of mi…
+------------------------
+Created on: Wed Oct 03 18:28:25 +0000 2018
+Tweet content: Here's a different perspective to consider: "To all the #fathers of all the silent victims: Your children are quiet… https://t.co/gl31ZxGD4w
+------------------------
+Created on: Tue Oct 02 04:16:08 +0000 2018
+Tweet content: Even thinking about the lyrics to "Red, Red Wine" makes this man belligerent. It's not often you read about an aspi… https://t.co/8up789UxTr
+------------------------
+Created on: Mon Oct 01 18:18:37 +0000 2018
+Tweet content: RT @shannonrwatts: Trump to woman reporter: "She's shocked I picked her, she's in a state of shock”
+Reporter: “I'm not, thank you Mr. Presi…
+------------------------
+Created on: Mon Oct 01 04:53:18 +0000 2018
+Tweet content: And yet the real #BrettKavanaugh seemed even more vengeful than #MattDamon's version on #SNL -- kind of surreal, is… https://t.co/2C2K3n3wt7
+------------------------
+Created on: Sun Sep 30 18:33:06 +0000 2018
+Tweet content: "#Kavanaugh was under oath... if the extended #FBI investigation into his background... looks into this and establi… https://t.co/1kf1LudE4v
+------------------------
+Created on: Sat Sep 29 20:58:54 +0000 2018
+Tweet content: "In the wake of Dr. Christine Blasey Ford’s sworn testimony of sexual abuse at the hands of Brett Kavanaugh, the Am… https://t.co/SW7I28JKu8
+------------------------
+Created on: Sat Sep 29 20:44:27 +0000 2018
+Tweet content: "...U.S. Supreme Court nominee #BrettKavanaugh laid bare his partisan resentments — the kind of bitter tribalism th… https://t.co/wFqoThpylK
+------------------------
+Created on: Fri Sep 28 18:28:55 +0000 2018
+Tweet content: RT @SenSanders: Brett Kavanaugh lied repeatedly to the Senate Judiciary Committee. He does not belong on the Supreme Court. https://t.co/95…
+------------------------
+Created on: Fri Sep 28 18:22:24 +0000 2018
+Tweet content: RT @NateSilver538: You know what else is going to come out in a week? Polls. Lots of 'em. And if you're Susan Collins or Joe Manchin, it's…
+------------------------
+Created on: Fri Sep 28 18:21:40 +0000 2018
+Tweet content: RT @kumailn: Flake calling for an FBI investigation. Wow. The heroic act by those women in the elevator worked.
+------------------------
+Created on: Fri Sep 28 18:17:47 +0000 2018
+Tweet content: RT @DLOW_72: If all I had to do in a job interview was cry and say I love beer a lot hell I could be a CEO right now #KavanaughVote
+------------------------
+Created on: Fri Sep 28 17:54:24 +0000 2018
+Tweet content: "He lied repeatedly to the Judiciary Committee... Some of his lies, about the testimony of witnesses and the integr… https://t.co/d4Ze2vHWdT
+------------------------
+Created on: Fri Sep 28 17:46:17 +0000 2018
+Tweet content: They don't need to be in such a hurry on a decision like this. #Kavanaugh #Senate #DelayTheVote
+------------------------
+Created on: Fri Sep 28 17:36:52 +0000 2018
+Tweet content: RT @BrennaDemands: All I saw was the rage of a man who did not get what he want. I saw an abuser. I saw a bully. I saw a drunk.
+
+I saw what…
+------------------------
+Created on: Fri Sep 28 14:30:51 +0000 2018
+Tweet content: RT @CNN: “Look at me when I'm talking to you. You’re telling me that my assault doesn’t matter!": Protesters confront Sen. Jeff Flake momen…
+------------------------
+Created on: Fri Sep 28 13:23:25 +0000 2018
+Tweet content: "But another kind of credibility was also at stake for #Kavanaugh—that of a judge, whose legitimacy depends on our… https://t.co/ZOLOXrAEbd
+------------------------
+
